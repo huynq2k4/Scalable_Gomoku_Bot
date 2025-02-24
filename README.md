@@ -6,3 +6,4 @@ This repository contains the code for our mid-term project in AI class [INT3401E
 
 Nguyen Quang Huy - 22028077 (leader)
 Nguyen Thanh Dao - 22028113
+Le Thanh Dat - 22028189
